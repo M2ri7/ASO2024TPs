@@ -1,17 +1,17 @@
-## TP1
+# TP1
 
 
 ![Captura de pantalla 2024-03-25 104015](https://github.com/M2ri7/ASO2024TP/assets/167377199/23ee1416-d54c-4592-a1eb-76f46ca2a79d)
 
 
 
-## TP2
+# TP2
 
 ![Captura de pantalla 2024-04-17 215300 (1)](https://github.com/M2ri7/ASO2024TP/assets/167377199/8c269fe5-8726-47b3-adb2-55a34a34797f)
 
 
 
-## TP3
+# TP3
 
 * Punto 1-
 
