@@ -14,7 +14,8 @@
 ## TP3
 
 * Punto 1-
-  
+
+[respuestas.txt](/TP3/respuestas.txt)
 
 
 
