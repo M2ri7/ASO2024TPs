@@ -38,8 +38,22 @@
 
 # TP4
 
+* localhost:8000
+
+  
+![8000](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/1.png)
+
+
+* Localhost
+
+![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/4.png?raw=true)
+
+
+
+![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/2.png)
 
 
 
 
+![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/5.png)
 
