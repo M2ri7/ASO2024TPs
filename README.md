@@ -39,7 +39,7 @@
 # TP4
 
 * localhost:8000
-
+  
   
 ![8000](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/1.png)
 
@@ -48,11 +48,13 @@
 
 ![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/4.png?raw=true)
 
+*copia del sitio 
 
 
 ![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/2.png)
 
 
+* docker-compose ps.
 
 
 ![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/5.png)
