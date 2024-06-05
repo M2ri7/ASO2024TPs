@@ -1,5 +1,11 @@
+     ## Arq SO
+
+     
 # TP1
 ![Captura de pantalla 2024-04-17 215300 (1)](https://github.com/M2ri7/ASO2024TPs/blob/d11a60a2e9c6d29536d0cc0d130372f4df7718cb/TP1/331394890-23ee1416-d54c-4592-a1eb-76f46ca2a79d.png)
+
+* El TP1 sirve para crear un entorno de desarrollo de Linux que nos permita trabajar con Linux.
+
 
 # TP2
 
@@ -26,4 +32,14 @@
 
 
 ![imagen](https://github.com/M2ri7/ASO2024TP/assets/167377199/2847bf73-fba8-4ac7-bbf6-d0508e3f9206)
+
+
+
+
+# TP4
+
+![localhost:8000](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/1.png)
+
+
+
 
