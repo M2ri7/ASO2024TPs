@@ -1,4 +1,4 @@
-     ## Arq SO
+## Arq SO
 
      
 # TP1
