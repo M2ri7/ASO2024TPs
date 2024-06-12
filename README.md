@@ -1,4 +1,4 @@
-# ---Arq SO---
+#  Arq SO
 
      
 # TP1
@@ -15,23 +15,18 @@
 
 # TP3
 
-* Punto 1-
+* Punto 1
 
-[respuestas.txt](/TP3/respuestas.txt)
+     [Repuestas.txt](https://github.com/M2ri7/ASO2024TPs/blob/main/TP3/respuestas.txt)
 
+* Punto 2-a
 
+     [codigo](https://github.com/M2ri7/ASO2024TPs/blob/main/TP3/con_race_condition.c)
 
-* Codigo Resuelto
+* Punto 2-b
+
+![cuadro](https://github.com/M2ri7/ASO2024TPs/blob/main/TP3/cuadro.jpeg)
   
-[con_race_condition.c](/TP3/con_race_condition.c)
-
-
-
-* Figura 2-22
-
-
-
-![imagen](https://github.com/M2ri7/ASO2024TP/assets/167377199/2847bf73-fba8-4ac7-bbf6-d0508e3f9206)
 
 
 
@@ -48,7 +43,7 @@
 
 ![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/4.png?raw=true)
 
-*copia del sitio 
+* copia del sitio 
 
 
 ![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/2.png)
