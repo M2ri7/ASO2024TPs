@@ -1,4 +1,13 @@
+
 1)
-a- respecto al tiempo de ejecución se puede decir que no son predecible
-b- no son iguales
-c- cuando lo ejecuto con las líneas comentadas va mas rápido y cuando lo ejecuto sin los # me va mas lento, por que cuando  las líneas no están comentadas las funciones se ejecuta secuencialmente en un solo hilo eso hace que sea mas lento en cambio cuando lo hago con las líneas comentadas se ejecutan en hilos separados, eso hace que las dos funciones trabajen simultáneamente, lo que lo hace mas rápido.
+
+a- respecto al tiempo de ejecución se puede decir que los dos no son predecible
+
+b- no, no iguales los tiempos, nos dio distinto tiempo.
+
+c-
+el codigo comentado y sin comentar, cometen race condicion. en el comentado como los dos hilos estan utilizando
+un recurso compartido (zona critica) sin limites, y en el descomentado primero entra un hilo y se queda en bucle y despues
+entra el otro eso genera un error.
+
+
