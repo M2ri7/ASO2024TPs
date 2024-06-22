@@ -24,8 +24,13 @@ case $op in
         echo "El resultado es: $resta"
         ;;
     3)
+        if [ $numero1 -eq 0 ] || [ $numero2 -eq 0 ];
+        then
+            echo "no se puede dividir por cero"
+        else
             division=$((numero1 / numero2))
             echo "El resultado es: $division"
+        fi
         ;;
     4)
         multiplicacion=$((numero1 * numero2))
