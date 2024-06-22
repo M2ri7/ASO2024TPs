@@ -1,4 +1,4 @@
-#  Arq SO
+##  Arquitectura y Sistemas Operativos
 
      
 # TP1
@@ -49,12 +49,11 @@
 ![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/2.png)
 
 
-
-# TP5
-
-
 * docker-compose ps.
 
 
 ![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/5.png)
+
+
+# TP5
 
