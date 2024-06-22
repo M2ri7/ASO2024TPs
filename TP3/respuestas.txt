@@ -1,13 +1,13 @@
 
 1)
 
-a- respecto al tiempo de ejecución se puede decir que los dos no son predecible
+a) Respecto al tiempo de ejecución se puede decir que los dos no son predecible
 
-b- no, no iguales los tiempos, nos dio distinto tiempo.
+b) no, no iguales los tiempos.
 
-c-
+c)
 el codigo comentado y sin comentar, cometen race condicion. en el comentado como los dos hilos estan utilizando
 un recurso compartido (zona critica) sin limites, y en el descomentado primero entra un hilo y se queda en bucle y despues
-entra el otro eso genera un error.
+entra el otro y eso genera un error.
 
 
