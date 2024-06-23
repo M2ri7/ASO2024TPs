@@ -7,9 +7,13 @@
 * El TP1 sirve para crear un entorno de desarrollo de Linux que nos permita trabajar con Linux.
 
 
+
+
 # TP2
 
 ![Captura de pantalla 2024-04-17 215300 (1)](https://github.com/M2ri7/ASO2024TP/assets/167377199/8c269fe5-8726-47b3-adb2-55a34a34797f)
+
+
 
 
 
@@ -53,6 +57,9 @@
 
 
 ![localhost](https://github.com/M2ri7/ASO2024TPs/blob/main/TP4/5.png)
+
+
+
 
 
 # TP5
